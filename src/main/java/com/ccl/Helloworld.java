@@ -3,6 +3,6 @@ package com.ccl;
 public class Helloworld {
 
     public static void main(String[] args) {
-        System.out.println("hello world! 66666########7777777777");
+        System.out.println("hello world!");
     }
 }
