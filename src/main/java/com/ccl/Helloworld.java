@@ -11,5 +11,6 @@ public class Helloworld {
         dd.setTime(date);
         int month = dd.get(Calendar.MONTH)+1;
         System.out.println(month);
+        System.out.println("ghahahaha");
     }
 }
